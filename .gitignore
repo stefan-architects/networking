@@ -1,0 +1,10 @@
+# Ignore the following files directories
+/stress-test-script
+
+# Ignore the following files
+TODO.md
+/scripts
+vpc-flow-logs/Policy - VPC Flow Logs Delivery Policy.md
+vpc-flow-logs/Policy - VPC Flow Logs Service Trust Policy.md
+/vpc-flow-logs/adrian
+/vpc-flow-logs/rajesh

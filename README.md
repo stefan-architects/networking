@@ -11,9 +11,11 @@ Additional resources and references may be added as the project develops and its
 ```
 📁 networking/
 │
-├── 📂 vpc-flow-logs/
-│   └── 📄 README.md
-│
+├── 📁 images/
+├── 📂 scripts/
+├── 📄 adrian-vpc-flowlogs.md *in progress*
+├── 📄 rajesh-vpc-flowlogs.md *in progress*
+├── 📄 vpc-refresh.md *in progress*
 ├── ⚙️ .gitattributes
 ├── ⚠️ .gitignore
 ├── 📜 LICENSE

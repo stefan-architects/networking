@@ -13,8 +13,7 @@ Additional resources and references may be added as the project develops and its
 │
 ├── 📁 images/
 ├── 📂 scripts/
-├── 📄 adrian-vpc-flowlogs.md *in progress*
-├── 📄 vpc-refresh.md *in progress*
+├── 📄 adrian-vpc-flowlogs.md
 ├── ⚙️ .gitattributes
 ├── ⚠️ .gitignore
 ├── 📜 LICENSE
